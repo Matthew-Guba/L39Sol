@@ -7,6 +7,7 @@ using namespace std;
 #define SIZE 20
 
 //Самый мощный коммент
+// Testing...
 
 int main() {
 
